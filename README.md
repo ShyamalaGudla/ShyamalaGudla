@@ -4,7 +4,7 @@
 
 <h1 align="center"> A passionate frontend developer from India</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamalaGudla&label=Profile%20views&color=0e75b6&style=flat" alt="Shyamalagudla" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamalaGudla&label=Profile%20views&color=0e75b6&style=flat" alt="ShyamalaGudla" /> </p>
 
 ### ✍️ Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
